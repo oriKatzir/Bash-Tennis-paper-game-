@@ -1,5 +1,4 @@
 #!/bin/bash
-# Ori Katzir 207350612
 scoreP1=50
 scoreP2=50
 choiceP1=0
